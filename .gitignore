@@ -1,0 +1,32 @@
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Jar files (generated builds)
+*.jar
+
+# Temporary files
+*.tmp
+
+# Git hidden files (optional safety)
+.git/
+
+# Node (if ever used later)
+node_modules/
+
+# Environment files
+.env
